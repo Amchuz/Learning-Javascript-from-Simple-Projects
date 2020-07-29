@@ -7,3 +7,5 @@ Sharpening JavaScript skills by building 15 projects using plain JavaScript with
 
 - Color Flipper:
   
+![Color Flipper Demo](https://github.com/Amchuz/Learning-Javascript-from-Simple-Projects/blob/master/Color%20Flipper/flipper.gif)
+  
