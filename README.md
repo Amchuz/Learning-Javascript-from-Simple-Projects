@@ -4,3 +4,6 @@ Sharpening JavaScript skills by building 15 projects using plain JavaScript with
 
 ---------
 ## Projects (On-going)
+
+- Color Flipper:
+  
